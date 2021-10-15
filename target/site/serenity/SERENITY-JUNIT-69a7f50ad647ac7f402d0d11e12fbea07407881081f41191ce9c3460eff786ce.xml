@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Estados Financieros Aeronautica Civil" skipped="0" tests="1" time="42.82" timestamp="2021-10-15 11:27:12"><testcase name="Descargar Estado Financiero"><failure message="Expected enabled element was not enabled" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">Expected enabled element was not enabled</failure><system-err>Expected enabled element was not enabled&#13;
+com.ban.aerocivil.task.NavegarEstadosFinancieros.performAs(NavegarEstadosFinancieros.java:22)&#13;
+com.ban.aerocivil.stepdefinitions.EstadosFinancierosStepDefinitions.navegaHastaLosEstadosFinancieros(EstadosFinancierosStepDefinitions.java:52)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+</system-err></testcase></testsuite>
